@@ -1,0 +1,5 @@
+d=float(input('enter any two cites distance in km:'))
+print('two cites of distance in meters:',d*1000)
+print('two cites of distance in centimeter:',d*100000)
+print('two cites of distance in inch:',d*39370.1)
+print('two cites of distance in feet :',d*3280.841666667)
